@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2024-09-08T11:00:00",
+    "description": "Join us for a morning worship service with uplifting music and a powerful sermon.",
+    "image": "/ministry/webp/sunday-worship-service.webp",
+    "imagePosition": "0 50%",
+    "title": "Sunday Worship Service"
+  },
+  {
+    "date": "2024-09-10T18:30:00",
+    "description": "Weekly Bible study to deepen your understanding of the Scriptures.",
+    "image": "/ministry/webp/bible-study-group.webp",
+    "imagePosition": "0 50%",
+    "title": "Bible Study Group"
+  },
+  {
+    "date": "2024-09-12T19:00:00",
+    "description": "Youth group meeting for fellowship and spiritual growth.",
+    "image": "/ministry/webp/youth-group-night.webp",
+    "imagePosition": "0 100%",
+    "title": "Youth Group Night"
+  },
+  {
+    "date": "2024-09-14T10:00:00",
+    "description": "Community outreach event to help those in need.",
+    "image": "/ministry/webp/community-outreach.webp",
+    "imagePosition": "0 25%",
+    "title": "Community Outreach"
+  },
+  {
+    "date": "2024-09-17T20:00:00",
+    "description": "Join us for a night of worship and prayer.",
+    "image": "/ministry/webp/evening-worship.webp",
+    "imagePosition": "0 30%",
+    "title": "Evening Worship"
+  },
+  {
+    "date": "2024-09-19T09:00:00",
+    "description": "Join us for a breakfast meeting with fellow believers.",
+    "image": "/ministry/webp/mens-fellowship-breakfast.webp",
+    "imagePosition": "0 35%",
+    "title": "Men's Fellowship Breakfast"
+  },
+  {
+    "date": "2024-09-21T15:00:00",
+    "description": "Special event for women to connect and grow together.",
+    "image": "/ministry/webp/womens-retreat.webp",
+    "imagePosition": "0 25%",
+    "title": "Women's Retreat"
+  },
+  {
+    "date": "2024-09-23T18:00:00",
+    "description": "Fun and educational activities for kids.",
+    "image": "/ministry/webp/childrens-program.webp",
+    "imagePosition": "0 50%",
+    "title": "Children's Program"
+  },
+  {
+    "date": "2024-09-26T19:00:00",
+    "description": "Join us for a community movie night.",
+    "image": "/ministry/webp/family-movie-night.webp",
+    "imagePosition": "0 70%",
+    "title": "Family Movie Night"
+  },
+  {
+    "date": "2024-09-28T08:00:00",
+    "description": "Early morning prayer session to start your day with God.",
+    "image": "/ministry/webp/morning-prayer.webp",
+    "imagePosition": "0 0",
+    "title": "Morning Prayer"
+  },
+  {
+    "date": "2024-10-01T18:30:00",
+    "description": "Weekly Bible study to deepen your understanding of the Scriptures.",
+    "image": "/ministry/webp/bible-study-group-2.webp",
+    "imagePosition": "0 10%",
+    "title": "Bible Study Group"
+  },
+  {
+    "date": "2024-10-03T17:00:00",
+    "description": "Join us for an afternoon of crafts and fellowship.",
+    "image": "/ministry/webp/crafting-with-friends.webp",
+    "imagePosition": "0 35%",
+    "title": "Crafting with Friends"
+  },
+  {
+    "date": "2024-10-05T19:00:00",
+    "description": "Concert featuring the church choir and guest artists.",
+    "image": "/ministry/webp/choir-concert.webp",
+    "imagePosition": "0 60%",
+    "title": "Choir Concert"
+  },
+  {
+    "date": "2024-10-08T09:30:00",
+    "description": "Join us for a morning of fun and games for all ages.",
+    "image": "/ministry/webp/family-fun-day.webp",
+    "imagePosition": "0 0",
+    "title": "Family Fun Day"
+  },
+  {
+    "date": "2024-10-10T18:00:00",
+    "description": "Join us for a special dinner and fellowship.",
+    "image": "/ministry/webp/church-potluck-dinner.webp",
+    "imagePosition": "0 0",
+    "title": "Church Potluck Dinner"
+  },
+  {
+    "date": "2024-10-12T11:00:00",
+    "description": "Join us for a morning worship service with uplifting music and a powerful sermon.",
+    "image": "/ministry/webp/sunday-worship-service-2.webp",
+    "imagePosition": "0 20%",
+    "title": "Sunday Worship Service"
+  },
+  {
+    "date": "2024-10-14T14:00:00",
+    "description": "Special event to honor and appreciate volunteers.",
+    "image": "/ministry/webp/volunteer-appreciation-day.webp",
+    "imagePosition": "0 10%",
+    "title": "Volunteer Appreciation Day"
+  },
+  {
+    "date": "2024-10-17T16:00:00",
+    "description": "Service project to help clean up the local park.",
+    "image": "/ministry/webp/park-cleanup.webp",
+    "imagePosition": "0 10%",
+    "title": "Park Cleanup"
+  },
+  {
+    "date": "2024-10-20T12:00:00",
+    "description": "Join us for a picnic at the local park.",
+    "image": "/ministry/webp/church-picnic.webp",
+    "imagePosition": "0 100%",
+    "title": "Church Picnic"
+  },
+  {
+    "date": "2024-10-22T19:30:00",
+    "description": "Join us for a night of worship and prayer.",
+    "image": "/ministry/webp/evening-worship-2.webp",
+    "imagePosition": "0 50%",
+    "title": "Evening Worship"
+  }
+]

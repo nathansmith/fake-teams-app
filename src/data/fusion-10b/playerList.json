@@ -1,0 +1,122 @@
+[
+  {
+    "image": "/avatars/webp/eli-doe.webp",
+    "name": "Eli Doe",
+    "number": 5,
+    "position": "forward"
+  },
+  {
+    "image": "/avatars/webp/tyler-smith.webp",
+    "name": "Tyler Smith",
+    "number": 17,
+    "position": "defender"
+  },
+  {
+    "image": "/avatars/webp/blake-johnson.webp",
+    "name": "Blake Johnson",
+    "number": 11,
+    "position": "midfield"
+  },
+  {
+    "image": "/avatars/webp/zach-davis.webp",
+    "name": "Zach Davis",
+    "number": 6,
+    "position": "forward"
+  },
+  {
+    "image": "/avatars/webp/cameron-brown.webp",
+    "name": "Cameron Brown",
+    "number": 22,
+    "position": "defender"
+  },
+  {
+    "image": "/avatars/webp/hunter-wilson.webp",
+    "name": "Hunter Wilson",
+    "number": 9,
+    "position": "midfield"
+  },
+  {
+    "image": "/avatars/webp/gavin-taylor.webp",
+    "name": "Gavin Taylor",
+    "number": 4,
+    "position": "defender"
+  },
+  {
+    "image": "/avatars/webp/caleb-martinez.webp",
+    "name": "Caleb Martinez",
+    "number": 13,
+    "position": "forward"
+  },
+  {
+    "image": "/avatars/webp/dylan-anderson.webp",
+    "name": "Dylan Anderson",
+    "number": 2,
+    "position": "defender"
+  },
+  {
+    "image": "/avatars/webp/parker-thomas.webp",
+    "name": "Parker Thomas",
+    "number": 14,
+    "position": "midfield"
+  },
+  {
+    "image": "/avatars/webp/jace-lee.webp",
+    "name": "Jace Lee",
+    "number": 8,
+    "position": "forward"
+  },
+  {
+    "image": "/avatars/webp/hayden-harris.webp",
+    "name": "Hayden Harris",
+    "number": 18,
+    "position": "midfield"
+  },
+  {
+    "image": "/avatars/webp/preston-clark.webp",
+    "name": "Preston Clark",
+    "number": 1,
+    "position": "goalie"
+  },
+  {
+    "image": "/avatars/webp/ryder-lewis.webp",
+    "name": "Ryder Lewis",
+    "number": 7,
+    "position": "forward"
+  },
+  {
+    "image": "/avatars/webp/grayson-walker.webp",
+    "name": "Grayson Walker",
+    "number": 19,
+    "position": "defender"
+  },
+  {
+    "image": "/avatars/webp/micah-hall.webp",
+    "name": "Micah Hall",
+    "number": 20,
+    "position": "midfield"
+  },
+  {
+    "image": "/avatars/webp/asher-allen.webp",
+    "name": "Asher Allen",
+    "number": 10,
+    "position": "defender"
+  },
+  {
+    "image": "/avatars/webp/nolan-young.webp",
+    "name": "Nolan Young",
+    "number": 12,
+    "position": "midfield"
+  },
+  {
+    "image": "/avatars/webp/sebastian-king.webp",
+    "name": "Sebastian King",
+    "number": 3,
+    "position": "forward"
+  },
+  {
+    "image": "/avatars/webp/easton-wright.webp",
+    "name": "Easton Wright",
+    "number": 15,
+    "position": "defender"
+  }
+]

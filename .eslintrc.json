@@ -1,0 +1,59 @@
+{
+  "env": {
+    "browser": true,
+    "es2022": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:prettier/recommended",
+    "plugin:solid/typescript"
+  ],
+  "globals": {
+    "vi": "readonly"
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["solid", "@pandacss"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2022,
+    "sourceType": "module"
+  },
+  "root": true,
+  "rules": {
+    "@pandacss/file-not-included": "warn",
+    "@pandacss/no-config-function-in-source": "warn",
+    "@pandacss/no-debug": "warn",
+    // "@pandacss/no-dynamic-styling": "warn", /* false positives */
+    // "@pandacss/no-unsafe-token-fn-usage": "warn" /* breaks eslint */
+    "@pandacss/no-invalid-nesting": "warn",
+    "@pandacss/no-invalid-token-paths": "warn",
+    "@pandacss/no-property-renaming": "warn",
+    "@pandacss/prefer-longhand-properties": "warn",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-unused-vars": "warn",
+    "@typescript-eslint/no-var-requires": "off",
+    "func-style": [
+      "warn",
+      "expression",
+      {
+        "allowArrowFunctions": true
+      }
+    ],
+    "no-console": [
+      "warn",
+      {
+        "allow": ["warn", "error"]
+      }
+    ],
+    "no-var": "warn",
+    "prefer-arrow-callback": "warn",
+    "prefer-const": "warn",
+    "quote-props": ["warn", "as-needed"],
+    "testing-library/render-result-naming-convention": "off"
+  }
+}

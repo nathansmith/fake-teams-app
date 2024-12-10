@@ -1,0 +1,222 @@
+[
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-08T11:00:00",
+    "field": "A",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Denton Diablos Estudiantes 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "light blue",
+      "shorts": "light blue",
+      "socks": "light blue"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-03T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-09-05T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-15T13:00:00",
+    "field": "O",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Dallas Legacy 08B Black",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-10T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-09-12T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-18T18:30:00",
+    "field": "C",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Legacy United FC 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-17T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-09-19T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Carpenter Park \n 6701 Coit Road \n Plano TX 75024",
+    "arrivalTime": 30,
+    "date": "2024-09-22T11:30:00",
+    "field": "B",
+    "map": {
+      "alt": "Carpenter Park",
+      "image": "/maps/webp/carpenter-park.webp"
+    },
+    "opponent": "Boca Juniors 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "light blue",
+      "shorts": "light blue",
+      "socks": "light blue"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-24T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-09-26T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-29T13:00:00",
+    "field": "B",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Academia de Futbol Dallas 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-10-01T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-10-03T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-10-06T13:00:00",
+    "field": "L",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "KC United 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "light blue",
+      "shorts": "light blue",
+      "socks": "light blue"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-10-08T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-10-10T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-10-13T11:00:00",
+    "field": "C",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "LC United 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-10-15T19:30:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Turner Soccer Complex \n 5900 Turner Street \n The Colony, TX 7505",
+    "date": "2024-10-17T19:30:00",
+    "field": "4",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-10-27T13:00:00",
+    "field": "E",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Steel United 08B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  }
+]

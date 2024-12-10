@@ -1,0 +1,62 @@
+[
+  {
+    "amount": 110.0,
+    "date": "2024-01-27",
+    "name": "World Wildlife Fund"
+  },
+  {
+    "amount": 130.0,
+    "date": "2024-02-23",
+    "name": "Compassion International"
+  },
+  {
+    "amount": 40.0,
+    "date": "2024-03-07",
+    "name": "Open Source Initiative"
+  },
+  {
+    "amount": 60.0,
+    "date": "2024-04-18",
+    "name": "Doctors Without Borders"
+  },
+  {
+    "amount": 30.0,
+    "date": "2024-05-18",
+    "name": "Amnesty International"
+  },
+  {
+    "amount": 90.0,
+    "date": "2024-06-30",
+    "name": "American Red Cross"
+  },
+  {
+    "amount": 200.0,
+    "date": "2024-07-05",
+    "name": "World Vision International"
+  },
+  {
+    "amount": 20.0,
+    "date": "2024-08-14",
+    "name": "Charity Water"
+  },
+  {
+    "amount": 50.0,
+    "date": "2024-09-09",
+    "name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "amount": 170.0,
+    "date": "2024-10-22",
+    "name": "SPCA of Texas"
+  },
+  {
+    "amount": 120.0,
+    "date": "2024-11-02",
+    "name": "UNICEF"
+  },
+  {
+    "amount": 180.0,
+    "date": "2024-12-17",
+    "name": "Habitat for Humanity"
+  }
+]

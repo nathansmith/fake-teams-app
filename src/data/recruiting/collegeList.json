@@ -1,0 +1,66 @@
+[
+  {
+    "address": "Austin College \n 900 N Grand Ave \n Sherman, TX 75090",
+    "division": "NCAA Division 3",
+    "image": "/recruiting/webp/acroos.com.webp",
+    "name": "Austin College",
+    "urlForSchool": "https://austincollege.edu",
+    "urlForTeam": "https://acroos.com/sports/msoc/index"
+  },
+  {
+    "address": "St. Edward's University \n 3001 S Congress Ave \n Austin, TX 78704",
+    "division": "NCAA Division 2",
+    "image": "/recruiting/webp/gohilltoppers.com.webp",
+    "name": "St. Edward's University",
+    "urlForSchool": "https://stedwards.edu",
+    "urlForTeam": "https://gohilltoppers.com/sports/mens-soccer"
+  },
+  {
+    "address": "Midwestern State University \n 3410 Taft Blvd \n Wichita Falls, TX 76308",
+    "division": "NCAA Division 2",
+    "image": "/recruiting/webp/msumustangs.com.webp",
+    "name": "Midwestern State University",
+    "urlForSchool": "https://msutexas.edu",
+    "urlForTeam": "https://msumustangs.com/sports/mens-soccer"
+  },
+  {
+    "address": "Southern Methodist University \n 6425 Boaz St \n Dallas, TX 75275",
+    "division": "NCAA Division 1",
+    "image": "/recruiting/webp/smumustangs.com.webp",
+    "name": "Southern Methodist University",
+    "urlForSchool": "https://smu.edu",
+    "urlForTeam": "https://smumustangs.com/sports/mens-soccer"
+  },
+  {
+    "address": "Southwestern University \n 1001 E University Ave \n Georgetown, TX 78626",
+    "division": "NCAA Division 3",
+    "image": "/recruiting/webp/southwesternpirates.com.webp",
+    "name": "Southwestern University",
+    "urlForSchool": "https://southwestern.edu",
+    "urlForTeam": "https://southwesternpirates.com/sports/mens-soccer"
+  },
+  {
+    "address": "Trinity University \n 1 Trinity Pl \n San Antonio, TX 78212",
+    "division": "NCAA Division 3",
+    "image": "/recruiting/webp/trinitytigers.com.webp",
+    "name": "Trinity University",
+    "urlForSchool": "https://trinity.edu",
+    "urlForTeam": "https://trinitytigers.com/sports/mens-soccer"
+  },
+  {
+    "address": "University of the Incarnate Word \n 4301 Broadway St \n San Antonio, TX 78209",
+    "division": "NCAA Division 1",
+    "image": "/recruiting/webp/uiwcardinals.com.webp",
+    "name": "University of the Incarnate Word",
+    "urlForSchool": "https://uiw.edu",
+    "urlForTeam": "https://uiwcardinals.com/sports/mens-soccer"
+  },
+  {
+    "address": "University of Texas at Dallas \n 800 W Campbell Rd \n Richardson, TX 75080",
+    "division": "NCAA Division 3",
+    "image": "/recruiting/webp/utdcomets.com.webp",
+    "name": "University of Texas at Dallas",
+    "urlForSchool": "https://utdallas.edu",
+    "urlForTeam": "https://utdcomets.com/sports/mens-soccer"
+  }
+]

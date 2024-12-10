@@ -1,0 +1,33 @@
+[
+  {
+    "address": "Hope Fellowship Frisco East \n 9950 Rolater Road \n Frisco, TX 75035",
+    "image": "/ministry/jpg/hope-fellowship-frisco-east.jpg",
+    "name": "Frisco East",
+    "times": "Saturday 5:00 PM \n Sunday 9:30 AM & 11:15 AM"
+  },
+  {
+    "address": "Hope Fellowship Frisco West \n 309 Main Street \n Frisco, TX 75036",
+    "image": "/ministry/jpg/hope-fellowship-frisco-west.jpg",
+    "name": "Frisco West",
+    "times": "Sunday 9:30 AM & 11:15 AM"
+  },
+  {
+    "address": "Hope Fellowship McKinney \n 1702 W. University Drive \n McKinney, TX 75069",
+    "image": "/ministry/jpg/hope-fellowship-mckinney.jpg",
+    "name": "McKinney",
+    "times": "Sunday 9:30 AM & 11:15 AM"
+  },
+  {
+    "address": "Hope Fellowship Prosper \n 2000 W. Prosper Trail \n Prosper, TX 75078",
+    "image": "/ministry/jpg/hope-fellowship-prosper.jpg",
+    "name": "Prosper",
+    "times": "Sunday 9:30 AM & 11:15 AM"
+  },
+  {
+    "address": "YouTube & Church online",
+    "image": "/ministry/jpg/hope-fellowship-online.jpg",
+    "times": "Saturday 5:00 PM \n Sunday 9:30 AM & 11:15 AM",
+    "name": "Online",
+    "url": "https://youtube.com/c/hopefellowship"
+  }
+]

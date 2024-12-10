@@ -1,0 +1,222 @@
+[
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-07T20:00:00",
+    "field": "A",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "DKSC Black 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "light blue",
+      "shorts": "light blue",
+      "socks": "light blue"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-09-03T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-05T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-14T10:00:00",
+    "field": "K",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "FC Dallas Youth Black 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-09-10T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-12T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-21T12:00:00",
+    "field": "K",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "FC Dallas Youth Red 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-09-17T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-19T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-09-28T10:00:00",
+    "field": "K",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "NTX Force 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-09-24T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-09-26T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-10-05T08:00:00",
+    "field": "O",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "NTX M&P Academy 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-10-01T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-10-03T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Carpenter Park \n 6701 Coit Road \n Plano TX 75024",
+    "arrivalTime": 30,
+    "date": "2024-10-10T08:00:00",
+    "field": "A",
+    "map": {
+      "alt": "Carpenter Park",
+      "image": "/maps/webp/carpenter-park.webp"
+    },
+    "opponent": "Coppell FC 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "white",
+      "shorts": "light blue",
+      "socks": "white"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-10-08T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-10-10T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-10-19T12:30:00",
+    "field": "O",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Dallas Legends Huracanes United 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "navy blue",
+      "shorts": "navy blue",
+      "socks": "navy blue"
+    }
+  },
+  {
+    "address": "Harold Bacchus Community Park \n 13995 Main Street \n Frisco, TX 75034",
+    "date": "2024-10-15T18:00:00",
+    "field": "14",
+    "type": "practice"
+  },
+  {
+    "address": "B.F. Phillips Community Park \n 3335 Timber Ridge Drive \n Frisco, TX 75034",
+    "date": "2024-10-17T18:00:00",
+    "field": "3",
+    "type": "practice"
+  },
+  {
+    "address": "Russell Creek Park \n 3500 McDermott Road \n Plano, TX 75025",
+    "arrivalTime": 30,
+    "date": "2024-10-26T12:00:00",
+    "field": "K",
+    "map": {
+      "alt": "Russell Creek Park",
+      "image": "/maps/webp/russell-creek-park.webp"
+    },
+    "opponent": "Academia De Futbol Dallas 10B",
+    "type": "game",
+    "uniform": {
+      "shirt": "light blue",
+      "shorts": "light blue",
+      "socks": "light blue"
+    }
+  }
+]

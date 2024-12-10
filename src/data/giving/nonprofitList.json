@@ -1,0 +1,92 @@
+[
+  {
+    "name": "American Red Cross",
+    "id": "1e7b9d2e-3b4a-4f6e-8f8e-1a2b3c4d5e6f",
+    "image": "/giving/webp/redcross.org.webp",
+    "url": "https://redcross.org",
+    "description": "Our mission is more than words. We always aim to prevent and relieve suffering with every action. The Red Cross shelters, feeds and provides comfort to people affected by disasters; supplies about 40% of the nation’s blood; teaches skills that save lives; distributes international humanitarian aid; and supports veterans, military members and their families.",
+    "featured": true
+  },
+  {
+    "name": "Amnesty International",
+    "id": "2a7b8c9d-4e5f-6a7b-8c9d-1e2f3a4b5c6d",
+    "image": "/giving/webp/amnesty.org.webp",
+    "url": "https://amnesty.org",
+    "description": "Amnesty International is a global movement of more than 10 million people who are committed to creating a future where human rights are enjoyed by everyone. United by our shared humanity, we know that the power to create positive change is within all of us."
+  },
+  {
+    "name": "Charity Water",
+    "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "image": "/giving/webp/charitywater.org.webp",
+    "url": "https://charitywater.org",
+    "description": "Since charity: water was founded in 2006, we’ve been chasing one ambitious goal: ending the global water crisis. And while the water crisis is huge, we’re optimistic. We know how to solve the problem, and we make progress every day thanks to the help of local partners and generous supporters. If we work together, we believe everyone will have access to life’s most basic need within our lifetime.",
+    "featured": true
+  },
+  {
+    "name": "Compassion International",
+    "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "image": "/giving/webp/compassion.com.webp",
+    "url": "https://compassion.com",
+    "description": "As a child sponsorship organization, we work to meet the needs of children living in poverty so they can thrive — mind, body and soul. Join us in delivering hope through child sponsorship, donating to a cause or giving a gift."
+  },
+  {
+    "name": "Doctors Without Borders",
+    "id": "5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d",
+    "image": "/giving/webp/doctorswithoutborders.org.webp",
+    "url": "https://doctorswithoutborders.org",
+    "description": "Doctors Without Borders/Médecins Sans Frontières (MSF) offers medical humanitarian assistance to people based solely on need, irrespective of race, religion, gender, or political affiliation. Our teams of doctors, nurses, logisticians, and other frontline workers are often among the first on the scene when peoples’ lives are upended by conflict, disease outbreaks, or natural or human-made disasters."
+  },
+  {
+    "name": "Habitat for Humanity",
+    "id": "6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f",
+    "image": "/giving/webp/habitat.org.webp",
+    "url": "https://habitat.org",
+    "description": "Habitat for Humanity is a global nonprofit housing organization working in local communities across all 50 states in the United States and in more than 70 countries around the world. Habitat’s vision is of a world where everyone has a decent place to live. Habitat works toward our vision by building strength, stability and self-reliance in partnership with people and families in need of a decent and affordable home.",
+    "featured": true
+  },
+  {
+    "name": "Open Source Initiative",
+    "id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+    "image": "/giving/webp/opensource.org.webp",
+    "url": "https://opensource.org",
+    "description": "We are also actively involved in Open Source community-building, education, and public advocacy to promote awareness and the importance of non-proprietary software. OSI participates in Open Source conferences and events, to meet with open source developers and users, and to discuss with executives from the public and private sectors about how Open Source technologies, licenses, and models of development can provide economic and strategic advantages."
+  },
+  {
+    "name": "SPCA of Texas",
+    "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+    "image": "/giving/webp/spca.org.webp",
+    "url": "https://spca.org",
+    "description": "We provide rescued and stray animals the life-saving care and rehabilitation services they need, plus affordable, high-quality care for pets. We bring wellness and spay/neuter services to the communities where they are needed most, two mobile wellness vehicles and a full-service clinic.",
+    "featured": true
+  },
+  {
+    "name": "St. Jude Children's Research Hospital",
+    "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+    "image": "/giving/webp/stjude.org.webp",
+    "url": "https://stjude.org",
+    "description": "St. Jude is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Our researchers and doctors work together to turn laboratory breakthroughs into lifesaving treatments for children from across the United States and around the world. And with your support, St. Jude can provide cutting-edge treatments at no cost to families — so they can focus on helping their child live.",
+    "featured": true
+  },
+  {
+    "name": "UNICEF",
+    "id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
+    "image": "/giving/webp/unicef.org.webp",
+    "url": "https://unicef.org",
+    "description": "UNICEF is one of the most widely known and visible social welfare entities globally, operating in 192 countries and territories. Our activities include providing immunizations and disease prevention, administering treatment for children and mothers with HIV, enhancing childhood and maternal nutrition, improving sanitation, promoting education, and providing emergency relief in response to disasters."
+  },
+  {
+    "name": "World Vision International",
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "image": "/giving/webp/wvi.org.webp",
+    "url": "https://wvi.org",
+    "description": "Committed to making a positive and lasting difference in the world, and driven by our desire to serve God, World Vision has become a global leader in improving and transforming the lives of children, their families, and their communities. Even the most vulnerable children deserve a chance at a bright future. As a global Christian relief, development and advocacy organisation we help children, families and communities overcome poverty and injustice, irrespective of religion, race, ethnicity or gender.",
+    "featured": true
+  },
+  {
+    "name": "World Wildlife Fund",
+    "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "image": "/giving/webp/worldwildlife.org.webp",
+    "url": "https://worldwildlife.org",
+    "description": "Our mission is to build a future in which people live in harmony with nature. To deliver this mission, we work to conserve and restore biodiversity, the web that supports all life on Earth; to reduce humanity's environmental footprint; and to ensure the sustainable use of natural resources to support current and future generations."
+  }
+]
