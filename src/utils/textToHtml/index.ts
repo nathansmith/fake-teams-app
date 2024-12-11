@@ -6,6 +6,7 @@ import markdownIt from 'markdown-it';
 
 const markdown = markdownIt({
   breaks: true,
+  linkify: true,
 });
 
 // ======================

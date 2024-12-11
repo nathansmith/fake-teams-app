@@ -19,7 +19,7 @@ export default [
         text: `
           Also, you can peruse the code on GitHub.
 
-          [https://github.com/nathansmith/fake-teams-app](https://github.com/nathansmith/fake-teams-app)
+          https://github.com/nathansmith/fake-teams-app
         `,
         reactions: [
           {
