@@ -40,7 +40,7 @@ If you want to expose the Vite server to the local network you can do this inste
 npm run start-host
 ```
 
-In the terminal, it will tell you the local IP address to use. It will also still be available at the `localhost` URL above.
+In the terminal, you will see which local IP address to use. It will also still be available at the `localhost` URL above.
 
 ## Testing
 
@@ -82,4 +82,4 @@ If you want to expose the Vite server to the local network you can do this inste
 npm run preview-host
 ```
 
-In the terminal, it will tell you the local IP address to use. It will also still be available at the `localhost` URL above.
+In the terminal, you will see which local IP address to use. It will also still be available at the `localhost` URL above.
