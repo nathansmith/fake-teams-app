@@ -81,3 +81,5 @@ If you want to expose the Vite server to the local network you can do this inste
 ```bash
 npm run preview-host
 ```
+
+In the terminal, it will tell you the local IP address to use. It will also still be available at the `localhost` URL above.
