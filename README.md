@@ -6,7 +6,7 @@ https://capstone.sonspring.com
 
 [![Fake Teams app](./assets/readme/fake-teams-app.webp)](./assets/readme/fake-teams-app.png)
 
-I created this project as a demo for my [MA in Interaction Design](https://cvad.unt.edu/design/design-ma-in-ixd.html) at the [University of North Texas](https://unt.edu/). My capstone was entitled _Teams for Home "Mass Niche"_ and focused on a hypothetical scenario in which the [consumer version](https://microsoft.com/en-us/microsoft-teams/teams-for-home) of Teams had plugins.
+I created this demo for my [MA in Interaction Design](https://cvad.unt.edu/design/design-ma-in-ixd.html) at the [University of North Texas](https://unt.edu/). My capstone was entitled _Teams for Home "Mass Niche"_ and focused on a hypothetical scenario in which the [consumer version](https://microsoft.com/en-us/microsoft-teams/teams-for-home) of Teams had plugins.
 
 I built this using a few core technologies.
 
@@ -18,7 +18,7 @@ I built this using a few core technologies.
 
 ## Setup
 
-To spin up the project, clone this repo and then type the following command. After which, a few Git hooks will create a Panda CSS `/styled-system` directory and everything should be ready to go.
+To spin up the project, clone this repo and then type the following command. Then Panda CSS will generate a `/styled-system` directory and a few Git hooks will be created. After which, everything should be ready to go.
 
 ```bash
 npm install
