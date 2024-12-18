@@ -1,4 +1,4 @@
-import { getRandomIndex } from '~/utils';
+import { getRandomIndex } from './';
 
 // ====================
 // Describe `fileName`.

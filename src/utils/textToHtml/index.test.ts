@@ -1,4 +1,4 @@
-import { textToHtml } from '~/utils';
+import { textToHtml } from './';
 
 // ====================
 // Describe `fileName`.

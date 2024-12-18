@@ -1,22 +1,22 @@
-import * as all from '~/sharedConstants';
+import * as all from '~/utils';
 
 // ====================
 // Describe `fileName`.
 // ====================
 
-describe('sharedConstants', (): void => {
+describe('utils', (): void => {
   // ======================
   // Test default scenario.
   // ======================
 
   test('handles default scenario', (): void => {
     // Constants.
-    const typeList = ['object', 'string'];
+    const typeList = ['function', 'object'];
 
     // Loop through.
     Object.entries(all).forEach(([key, value]): void => {
       // Test assertions.
-      expect(key.toUpperCase()).toBe(key);
+      expect(key.toUpperCase()).not.toBe(key);
       expect(typeList).toContain(typeof value);
     });
   });

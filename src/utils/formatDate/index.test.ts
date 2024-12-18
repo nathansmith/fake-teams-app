@@ -1,5 +1,5 @@
 import { MOCK_DATE_NUMBER, MOCK_DATE_STRING } from '~/__mocks__';
-import { formatDate } from '~/utils';
+import { formatDate } from './';
 import type { IFormatDateOptions } from './';
 
 // ====================

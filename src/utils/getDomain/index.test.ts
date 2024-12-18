@@ -1,4 +1,4 @@
-import { getDomain } from '~/utils';
+import { getDomain } from './';
 
 // ====================
 // Describe `fileName`.

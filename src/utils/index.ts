@@ -9,7 +9,6 @@ export { getRandomId } from './getRandomId';
 export { getRandomIndex } from './getRandomIndex';
 export { getRandomStatus } from './getRandomStatus';
 export { getTabId } from './getTabId';
-export { initClarity } from './initClarity';
 export { sortByName } from './sortByName';
 export { storage } from './storage';
 export { textToHtml } from './textToHtml';

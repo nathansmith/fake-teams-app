@@ -1,6 +1,5 @@
 /* @refresh reload */
 
-import { initClarity } from '~/utils';
 import { render } from 'solid-js/web';
 import { ErrorBoundary } from 'solid-js';
 
@@ -42,6 +41,3 @@ const app = () => (
 
 // Render.
 render(app, document.body);
-
-// Kickoff.
-initClarity();

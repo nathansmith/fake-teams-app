@@ -1,4 +1,4 @@
-import { getPanelId } from '~/utils';
+import { getPanelId } from './';
 
 // ====================
 // Describe `fileName`.

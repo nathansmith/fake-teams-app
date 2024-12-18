@@ -1,4 +1,4 @@
-import { getMapUrl } from '~/utils';
+import { getMapUrl } from './';
 
 // ====================
 // Describe `fileName`.

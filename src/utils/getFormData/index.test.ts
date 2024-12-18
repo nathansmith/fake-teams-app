@@ -1,4 +1,4 @@
-import { getFormData } from '~/utils';
+import { getFormData } from './';
 
 // ====================
 // Describe `fileName`.

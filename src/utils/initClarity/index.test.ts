@@ -1,4 +1,4 @@
-import { initClarity } from '~/utils';
+import { initClarity } from './';
 
 // ====================
 // Describe `fileName`.

@@ -1,4 +1,4 @@
-import { getChildren } from '~/utils';
+import { getChildren } from './';
 
 // ====================
 // Describe `fileName`.

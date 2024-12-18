@@ -1,4 +1,4 @@
-import { getRandomStatus } from '~/utils';
+import { getRandomStatus } from './';
 import { STATUS_LIST } from '~/sharedConstants';
 
 // ====================

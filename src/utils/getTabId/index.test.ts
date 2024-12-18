@@ -1,4 +1,4 @@
-import { getTabId } from '~/utils';
+import { getTabId } from './';
 
 // ====================
 // Describe `fileName`.

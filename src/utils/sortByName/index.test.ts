@@ -1,4 +1,4 @@
-import { sortByName } from '~/utils';
+import { sortByName } from './';
 
 // ====================
 // Describe `fileName`.
