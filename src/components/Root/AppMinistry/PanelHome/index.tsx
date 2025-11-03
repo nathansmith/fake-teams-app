@@ -49,8 +49,8 @@ const PanelHome: Component = () => {
 
           <Video
             //
-            title="Decisions, Decisions 01: Wisdom"
-            video="QKgGOrMhRPI"
+            title="Jesus Centered 04: Jesus Is Who We Proclaim"
+            video="FKkkl4wGCoY"
           />
         </FlexStack>
 
