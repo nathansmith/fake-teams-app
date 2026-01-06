@@ -24,7 +24,7 @@ beforeEach((): void => {
 
 Object.defineProperty(globalThis, 'MutationObserver', {
   writable: true,
-  value: class IntersectionObserver {
+  value: class MutationObserver {
     private callback: (list: any[]) => void;
 
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
